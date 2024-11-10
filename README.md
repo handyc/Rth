@@ -1,11 +1,11 @@
 # Rth
 Virtual planet
 <pre>
-     6         6     
-5         5         5
-     6         6     
-6         6         6
-     5         5     
-6         6         6
-     6         6           
+     R         R     
+Q         Q         Q
+     R         R     
+R         R         R
+     Q         Q     
+R         R         R
+     R         R           
 </pre>
